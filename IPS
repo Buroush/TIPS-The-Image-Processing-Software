@@ -1,0 +1,11 @@
+#!/bin/bash
+# Author Pankaj Mondal version 0.1
+# Check if the script is called with command-line arguments
+if [ $# -eq 0 ]; then
+    echo "Error: No input files provided."
+    echo "Usage: $0 <argument>"
+    exit 1
+else
+	# Your main script logic here
+	./Image_Software "$@"
+fi
