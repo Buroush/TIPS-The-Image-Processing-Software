@@ -47,6 +47,10 @@ To generate a green grayscale image from an input file named "blackbuck.ppm":
 **Notes:**
 - Ensure the input file exists and is in one of the supported formats (PPM, PGM, PBM).
 - TIPS outputs the processed image to the standard output. Redirect the output to a file using standard shell redirection operators if needed.
+**Acknowledgments**
+TIPS was developed by Pankaj Mondal. For further assistance or inquiries, please contact Pankaj at
+- **Author:** Pankaj Mondal
+- **LinkedIn:** [Pankaj Mondal](https://www.linkedin.com/in/buroush)
+- **GitHub:** [Buroush](https://github.com/Buroush)
+- **LeetCode:** [Buroush](https://leetcode.com/Buroush)
 
-**Acknowledgments:**
-TIPS was developed by Pankaj Mondal. For further assistance or inquiries, please contact Pankaj at pankajm.1093@gmail.com.
